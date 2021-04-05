@@ -9,6 +9,7 @@ public class DemoGerritApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGerritApplication.class, args);
 		System.out.println("hello world");
+		System.out.println("git integrated");
 	}
 
 }
